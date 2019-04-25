@@ -1,0 +1,33 @@
+.container {
+  display: flex;
+  width: 800px;
+  height: 500px;
+  background: #ececec;
+
+}
+
+.div2 {
+  width: 200px;
+  background: blue;
+  height: 200px;
+  border: 1px solid pink
+}
+
+.div3 {
+  width: 200px;
+  height: 50px;
+  background: #cecef9;
+  border: 1px solid chocolate;
+}
+
+
+.left {
+  flex: 1;
+}
+
+.center {
+}
+
+.right {
+  flex: 1;
+}
