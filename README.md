@@ -1,2 +1,2 @@
-# Teste
-Usado para fins de testes
+# Exemplos de css e html
+Usado para salvar alguns exemplos de códigos html e css de páginas
